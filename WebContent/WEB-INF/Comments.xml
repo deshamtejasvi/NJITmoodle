@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feedback>
+  <Comment>
+    <Commentid>1234</Commentid>
+    <CommentDateTime>2012-12-13T12:12:12</CommentDateTime>
+    <Commentdesc>Order dispatched</Commentdesc>
+    <FieldID> <!-- Contains the the type of field and it's ID -->
+      <Field>Location</Field>
+      <ID>1234</ID>
+    </FieldID>
+  </Comment>
+</Feedback>

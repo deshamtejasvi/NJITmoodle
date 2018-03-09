@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee>
+    <Employeeid>1234</Employeeid>
+    <FirstName>John</FirstName>
+    <LastName>Dookie</LastName>
+    <Email>jdook@gmail.com</Email>
+    <Extension>234</Extension>
+    <HomePhone>2025550197</HomePhone>
+    <CellNo>2025550197</CellNo>
+    <JobTitle>Driver</JobTitle>
+    <SSN>649345647</SSN>
+    <DLNo>5647891</DLNo>
+    <Address>
+      <StAdd>str1234</StAdd>
+      <City>Chicago </City>
+      <State>Illinois</State>
+      <Zip>12340</Zip>
+      <Country>United States</Country>
+    </Address>
+    <BDay>1989-12-13</BDay>
+    <Hired>2012-12-13</Hired>
+    <Salary>3000.50</Salary>
+  </Employee>
+</Employees>

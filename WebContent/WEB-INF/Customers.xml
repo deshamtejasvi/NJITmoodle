@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+  <Customer>
+    <Customerid>001</Customerid>
+    <CustomerTitle>Mr</CustomerTitle>
+    <CustomerName>Pravin</CustomerName>
+    <BillingAddress>
+        <StAdd>62 W 35th St</StAdd>
+		<City> Chicago </City>
+		<State> Illinois </State>
+		<Zip> 60616 </Zip>
+		<Country>United States</Country>
+    </BillingAddress>
+    <ContactInfo>
+		<Residence>2025550148</Residence>
+		<Cell>2025550148</Cell>
+		<Fax>2025550148</Fax>
+		<Email>pt@aol.com</Email>
+    </ContactInfo>
+    <CustomerType>Business</CustomerType>
+    <CompanyName>ABC Corp Ltd</CompanyName>
+    <ContactName>Pravin Tambe</ContactName>
+    <AlternateContact>Varun Tambe</AlternateContact>
+  </Customer>
+</Customers>
